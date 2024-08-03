@@ -1,6 +1,6 @@
 ---
 author: test
-title: Adding new posts in AstroPaper theme
+title: gbjk AstroPaper theme
 slug: adding-new-posts-in-astropaper-theme
 featured: true
 draft: false
