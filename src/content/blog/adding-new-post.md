@@ -1,7 +1,6 @@
 ---
-author: Sat Naing
+author: test
 title: Adding new posts in AstroPaper theme
-ogImage: Adding new posts in AstroPaper theme
 slug: adding-new-posts-in-astropaper-theme
 featured: true
 draft: false
